@@ -32,7 +32,7 @@ h2::after {
     display: block;
     width: 80px;
     height: 4px;
-    background: #3498db;
+    background: #8dc63f;
     margin: 1rem auto 0;
     border-radius: 2px;
 }
@@ -79,13 +79,13 @@ nav {
 }
 
 .nav-links a:hover {
-    color: #3498db;
+    color: #8dc63f;
 }
 
 /* ===== HERO ===== */
 .hero {
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
-                url('./images/fenetre (21).jpeg') no-repeat center center/cover;
+                url('./images/cloture (8).jpg') no-repeat center center/cover;
     min-height: 80vh;
     display: flex;
     align-items: center;
@@ -112,7 +112,7 @@ nav {
 
 .btn {
     display: inline-block;
-    background: #3498db;
+    background: #8dc63f;
     color: white;
     padding: 1rem 2rem;
     border: none;
@@ -124,7 +124,7 @@ nav {
 }
 
 .btn:hover {
-    background: #2980b9;
+    background: #8dc63f;
     transform: scale(1.05);
 }
 
@@ -199,7 +199,7 @@ nav {
 
 .service-item i {
     font-size: 3rem;
-    color: #3498db;
+    color: #8dc63f;
     margin-bottom: 1rem;
 }
 
@@ -231,7 +231,7 @@ nav {
 
 .contact-infos {
     flex: 1 1 250px;
-    background: #3498db;
+    background: #040039;
     color: white;
     padding: 2rem;
     border-radius: 10px;
@@ -271,7 +271,7 @@ form textarea {
 form input:focus,
 form textarea:focus {
     outline: none;
-    border-color: #3498db;
+    border-color: #8dc63f;
 }
 
 form button {
